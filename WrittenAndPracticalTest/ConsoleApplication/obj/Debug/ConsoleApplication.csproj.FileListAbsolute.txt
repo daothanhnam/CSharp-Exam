@@ -1,0 +1,8 @@
+D:\c#\CSharp-Exam\WrittenAndPracticalTest\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+D:\c#\CSharp-Exam\WrittenAndPracticalTest\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+D:\c#\CSharp-Exam\WrittenAndPracticalTest\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+D:\c#\CSharp-Exam\WrittenAndPracticalTest\ConsoleApplication\obj\Debug\ConsoleApplication.csproj.AssemblyReference.cache
+D:\c#\CSharp-Exam\WrittenAndPracticalTest\ConsoleApplication\obj\Debug\ConsoleApplication.csproj.SuggestedBindingRedirects.cache
+D:\c#\CSharp-Exam\WrittenAndPracticalTest\ConsoleApplication\obj\Debug\ConsoleApplication.csproj.CoreCompileInputs.cache
+D:\c#\CSharp-Exam\WrittenAndPracticalTest\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+D:\c#\CSharp-Exam\WrittenAndPracticalTest\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
